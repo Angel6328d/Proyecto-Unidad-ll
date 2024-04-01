@@ -1,0 +1,1 @@
+ALTER TABLE trabajadoR ALTER COLUMN name_trabajador SET DATA TYPE TEXT;
